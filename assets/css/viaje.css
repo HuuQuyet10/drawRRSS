@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-ene-2018, 12:38:41
+    Author     : Rapoporras
+*/
+html,
+body {
+    height: 100%;
+}
+/* Navigation*/
+
+.top-nav-collapse {
+    background-color: #FF8800;
+}
+
+footer.page-footer {
+    background-color: #FF8800;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #FF8800;
+    }
+}
+
+
+.carousel {
+    height: 50%;
+}
+
+@media (max-width: 776px) {
+    .carousel {
+        height: 50%;
+    }
+}
+
+.carousel-item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+/*Caption*/
+
